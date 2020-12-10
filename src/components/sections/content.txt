@@ -1,0 +1,2 @@
+Content: 
+I'm an innovative Bioinformatics Analyst based currently in Baltimore, MD specializing in building robust, scalable pipelines for generation and analysis of NGS data.

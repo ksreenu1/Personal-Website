@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['RNA-Seq Analysis', 'scRNA-Seq Analysis', 'Genomics', 'Metagenomics', 'Biostatistics', 'Python', 'R','Bash'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +141,17 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Siddhi, a Bioinformatics Analyst currently based in Baltimore, MD.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              My academic journey is interdisciplinary in nature with deep knowledge of molecular biology and implementing computational tools using bioinformatics tools, Python and R.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              During my Masters program at {' '}
+              <a href="https://www.jhu.edu">Johns Hopkins University</a>, I got a chance to work on 
+              challenging and meaningful projects and helped me build skills in computational biology and 
+              work on diverse datasets.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
