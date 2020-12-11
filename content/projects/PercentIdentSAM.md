@@ -8,7 +8,7 @@ tech:
   - SAM
   - CSV
 company: 'Course: Metagenomics'
-showInProjects: false
+showInProjects: true
 ---
 
 Code calculates percent identity for each aligning read to reference from SAM file and generates a CSV file with columns.
