@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/404de783-4ec7-4de5-9041-d1097db9b933/deploy-status)](https://app.netlify.com/sites/heuristic-austin-4bbedd/deploys)
+
 Personal Website 
 
 Forked from this amazing theme by Britanny Chiang. 
