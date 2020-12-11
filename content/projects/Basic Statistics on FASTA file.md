@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Basic Statistics on FASTA file'
+title: 'Basic Statistics on FASTA, FASTQ files and their gzipped variants'
 github: ''
 external: '#'
 tech:
-  - Regex
-  - Shutil
-  - Argparse
-company: 'Upstatement'
+  - gzip
+  - os
+  - argparse
+company: 'Course: Metagenomics'
 showInProjects: true
 ---
 
-Code reports the number of sequences found and the total number of residues (bases) that make them up the FASTA file. The script also runs for compressed FASTA file (gzip) and reports “Invalid file format” if the scripts aren’t in ‘.fa’ or ‘fasta.gz’ format.
+Code reports the number of sequences found and the total number of residues (bases) that make them up the FASTA or FASTQ files along with their gzipped variants.
