@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Basic Statistics on FASTA file'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: '#'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Regex
+  - Shutil
+  - Argparse
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Code reports the number of sequences found and the total number of residues (bases) that make them up the FASTA file. The script also runs for compressed FASTA file (gzip) and reports “Invalid file format” if the scripts aren’t in ‘.fa’ or ‘fasta.gz’ format.
