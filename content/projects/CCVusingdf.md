@@ -1,8 +1,8 @@
 ---
 date: '#'
 title: 'Complete Composition Vector using DataFrame'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+github: '#'
+external: '#'
 tech:
   - Big Data
   - DataFrame

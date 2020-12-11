@@ -168,8 +168,6 @@ const ArchivePage = ({ location, data }) => {
                     date,
                     github,
                     external,
-                    ios,
-                    android,
                     title,
                     tech,
                     company,
