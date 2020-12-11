@@ -21,8 +21,8 @@ const Icon = ({ name }) => {
   switch (name) {
     case 'AppStore':
       return <IconAppStore />;
-    case 'Codepen':
-      return <IconCodepen />;
+    // case 'Codepen':
+    //   return <IconCodepen />;
     case 'External':
       return <IconExternal />;
     case 'Folder':
@@ -31,8 +31,8 @@ const Icon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
-    case 'Instagram':
-      return <IconInstagram />;
+    // case 'Instagram':
+    //   return <IconInstagram />;
     case 'Linkedin':
       return <IconLinkedin />;
     case 'Loader':
@@ -43,8 +43,8 @@ const Icon = ({ name }) => {
       return <IconPlayStore />;
     case 'Star':
       return <IconStar />;
-    case 'Twitter':
-      return <IconTwitter />;
+    // case 'Twitter':
+    //   return <IconTwitter />;
     case 'Zap':
       return <IconZap />;
     default:
