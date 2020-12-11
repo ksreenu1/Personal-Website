@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Siddhi Nargund',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Siddhi Nargund is an innovative Bioinformatics Analyst based currently in Baltimore, MD specializing in building and implementing robust pipelines for analysis of NGS data.',
     siteUrl: 'https://siddhinargund.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@siddhiNargund',
