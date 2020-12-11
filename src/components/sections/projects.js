@@ -252,7 +252,9 @@ const Projects = () => {
           })}
       </TransitionGroup>
 
-     
+      <button className="more-button" onClick={() => setShowMore(!showMore)}>
+        Show {showMore ? 'Less' : 'More'}
+      </button>
     </StyledProjectsSection>
   );
 };
