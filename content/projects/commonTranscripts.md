@@ -7,6 +7,6 @@ tech:
   - tracking files
   - StringTie
   - Long-reads
-showInProjects: false
+showInProjects: true
 ---
 Code checks for common transcripts amongst different tracking files. Inputs tracking files and outputs a CSV file. The CSV file has transcripts in rows and column has files. If the transcript is present it is marked ‘Yes’ else left blank.
