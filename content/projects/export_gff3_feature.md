@@ -1,8 +1,8 @@
 ---
 date: '#'
 title: 'Feature Attribute to return FASTA file'
-github: '#'
-external: ''
+github: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats/blob/master/export_gff3_feature.py'
+external: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats'
 tech:
   - GFF3
   - Python

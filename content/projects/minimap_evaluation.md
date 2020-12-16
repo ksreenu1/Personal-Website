@@ -1,8 +1,8 @@
 ---
 date: ''
 title: 'Minimap2 Result Evaluation'
-github: ''
-external: '#'
+github: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats/blob/master/minimap_evaluation.py'
+external: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats'
 tech:
   - Minimap2
   - Dataframe

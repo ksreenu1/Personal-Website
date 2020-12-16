@@ -1,8 +1,8 @@
 ---
 date: '#'
 title: 'Reverse Complement'
-github: ''
-external: '#'
+github: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats/blob/master/reverseComplement.py'
+external: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats'
 tech:
   - DNA sequence 
   - reverse

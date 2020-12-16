@@ -1,8 +1,8 @@
 ---
 date: '#'
 title: 'Filter tracking file for classcode'
-github: '#'
-external: '#'
+github: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats/blob/master/filter_for_classcode.py'
+external: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats'
 tech:
   - GFFCompare
   - transcript class codes
