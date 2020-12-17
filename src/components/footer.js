@@ -107,8 +107,9 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
       <div>&copy; Siddhi Nargund 2020 </div>
         <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp;by Brittany Chiang</div>
+          <div>Based on Template by Brittany Chiang</div>
         </a>
+        <div>DNA Icon from Orion Icon Library - Free vector icons - SVG, PNG, &amp; Icon Font - https://orioniconlibrary.com/icon/dna-6344</div>
       </StyledCredit>
     </StyledFooter>
   );

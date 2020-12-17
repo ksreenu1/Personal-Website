@@ -2,8 +2,8 @@
 date: '2'
 title: 'Analysed precision of StringTie for long-reads RNA-Seq data'
 cover: './StringTie.jpg'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/Siddhi-Nargund/Analysed-precision-of-StringTie-for-long-reads-RNA-Seq-data'
+external: 'https://github.com/Siddhi-Nargund/Analysed-precision-of-StringTie-for-long-reads-RNA-Seq-data'
 tech:
   - HISAT2
   - Samtools

@@ -94,6 +94,8 @@ const StyledProject = styled.div`
   }
 
   .project-title {
+    position: relative;
+    z-index:4;
     color: var(--lightest-slate);
     font-size: clamp(24px, 5vw, 28px);
 
@@ -200,7 +202,7 @@ const StyledProject = styled.div`
 
     a {
       width: 100%;
-      background-color: var(--green);
+      background-color: #ccd6f6;
       border-radius: var(--border-radius);
       vertical-align: middle;
 

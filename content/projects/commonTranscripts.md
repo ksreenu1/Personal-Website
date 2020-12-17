@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 title: 'Check for common transcripts in tracking files'
-github: '#'
+github: 'https://github.com/Siddhi-Nargund/Dealing-with-Biological-File-Formats/blob/master/StatsFasta.py'
 external: '#'
 tech:
   - tracking files
