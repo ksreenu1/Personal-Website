@@ -6,22 +6,23 @@ const IconLoader = () => (
     <g>
       <g id="B" transform="translate(11.000000, 5.000000)">
         <path
-          d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-          fill="currentColor"
+          d="M26.987 48.892C20.527 51.637 15 54.96 15 62m0-60c0 16.941 32 10.941 32 30 0 8.824-8 12.088-16 15.265"
+          fill="none" stroke="#64ffda" stroke-linecap="round" stroke-miterlimit="10"
+          stroke-width="2" stroke-linejoin="round"></path>
+          <path data-name="layer1" d="M26.993 17.774C20.53 20.485 15 24.077 15 32c0 17.647 32 13.059 32 30m0-60c0 8.471-8 11.206-16 14.206"
+          fill="none" stroke="#64ffda" stroke-linecap="round" stroke-miterlimit="10"
+          stroke-width="2" stroke-linejoin="round"></path>
+          <path data-name="layer2" fill="none" stroke="#64ffda" stroke-linecap="round"
+          stroke-miterlimit="10" stroke-width="2" d="M15 32h32" stroke-linejoin="round"></path>
+          <path data-name="layer1" fill="none" stroke="#64ffda" stroke-linecap="round"
+          stroke-miterlimit="10" stroke-width="2" d="M21 24h20" stroke-linejoin="round"></path>
+          <path data-name="layer2" fill="none" stroke="#64ffda" stroke-linecap="round"
+          stroke-miterlimit="10" stroke-width="2" d="M19 8h24M18 56h26" stroke-linejoin="round"></path>
+          <path data-name="layer1" fill="none" stroke="#64ffda" stroke-linecap="round"
+          stroke-miterlimit="10" stroke-width="2" d="M21 40h20" stroke-linejoin="round"></path>          fill="currentColor"
         />
       </g>
-      <path
-        stroke="currentColor"
-        strokeWidth="5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
-      />
+      
     </g>
   </svg>
 );

@@ -2,8 +2,8 @@
 date: '2'
 title: 'Functional Annotation of gene in healthy and BV infected Vaginal Microbiome'
 cover: './demo.png'
-github: '#'
-external: '#'
+github: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
+external: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
 tech:
   - FastQC
   - Feauture Prediction

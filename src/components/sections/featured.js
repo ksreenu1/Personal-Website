@@ -202,7 +202,7 @@ const StyledProject = styled.div`
 
     a {
       width: 100%;
-      background-color: #ccd6f6;
+      background-color: #a8b2d1;
       border-radius: var(--border-radius);
       vertical-align: middle;
 
