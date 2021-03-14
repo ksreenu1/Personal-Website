@@ -1,15 +1,18 @@
 ---
-date: '1'
-title: 'Complete Composition Vector Algorithm to find Breakpoints in Cancer Genomes'
-cover: './CCV.jpg'
-github: 'https://github.com/Siddhi-Nargund/Complete-Composition-Vector-Algorithm-to-find-Breakpoints-in-Cancer-Genome'
-external: 'https://github.com/Siddhi-Nargund/Complete-Composition-Vector-Algorithm-to-find-Breakpoints-in-Cancer-Genome'
+date: '2017-12-01'
+title: 'Automate Digital Pathology Slide Scanner'
+# cover: '/halycon.png'
+cover: './Slide.jpg'
+github: '#'
+external: 'https://youtu.be/Wi1Fb6nYwR4'
 tech:
-  - pandas
-  - Cluster Computing
-  - Big Data
-  - Genotyping
+  - Medical Devices
+  - Biomedical instrumentation
+  - Digital Pathology
+  - Tade-off Economics
+  - Cost Management
 showInProjects: true
 ---
 
-Analyzing normal versus tumor cell genetic data to find genetic instability in cancer genome using high-dimensional Complete Composition Vector. Identified kmers which can potentially be breakpoints in tumor genomes using frequency vector.
+
+Devised an automatic, high-throughput, portable digital pathology slide scanner which can generate digital images of eight standard microscopic slides. The motivation behind the project was the dire pathological diagnostic needs during COVID-19 when access to laboratories was extremely difficult. 85% of the device operation can be remotely controlled by a pathologist.

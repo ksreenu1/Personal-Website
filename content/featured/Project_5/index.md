@@ -1,17 +1,16 @@
 ---
-date: '2'
-title: 'Functional Annotation of gene in healthy and BV infected Vaginal Microbiome'
-cover: './Metag.jpg'
-github: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
-external: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
+date: '3'
+title: 'Quadriplegic Communication Headset'
+cover: './demo.png'
+github: '#'
+external: '#'
 tech:
-  - FastQC
-  - Feauture Prediction
-  - Velvet
-  - Prokka suite
-  - Bowtie2
-  - khmer
-  - Picard
+  - Biomedical Instrumentation
+  - Biomedical Electronics
+  - Neural Assistive Technologies
+  - Sensors and Measurements
+  
 showInProjects: true
----
-Investigation of functional domains and expression of genes of microbiome samples collected from healthy women's healthy Vaginal Introitus, Mid-Vagina and comparsion with vaginal fluid of women infected with Bacterial Vaginosis.
+--- 
+
+Built an extremely user-friendly assistive device for  patients with Spastic Quadriplegia (complete loss of limb function and speech) for basic communication. Comprises of a highly sophisticated computer program and user interface that allows patients to type sentences and indicate essential needs by using just their cheeks.

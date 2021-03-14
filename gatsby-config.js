@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Siddhi Nargund',
+    title: 'Kushal Sreenuprasad',
     description:
       'Siddhi Nargund is an innovative Bioinformatics Analyst based currently in Baltimore, MD specializing in building and implementing robust pipelines for analysis of NGS data.',
     siteUrl: 'https://siddhinargund.tech', // No trailing slash allowed!

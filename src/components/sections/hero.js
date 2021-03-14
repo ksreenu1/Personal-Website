@@ -47,12 +47,12 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Siddhi Nargund.</h2>;
-  const three = <h3 className="big-heading">I analyse DNA, RNA and protein sequences</h3>;
+  const one = <h1>Hello! Welcome to the online home of </h1>;
+  const two = <h2 className="big-heading">Kushal Sreenuprasad</h2>;
+  const three = <h3 className="big-heading">I am a Biomedical Engineer</h3>; //I dont want this
   const four = (
     <p>
-I'm an innovative Bioinformatics Analyst based currently in Baltimore, MD specializing in building and implementing robust pipelines for analysis of NGS data.
+I am a Biomedical Engineer focused on developing futuristic, affordable and efficient Medical Devices
     </p>
   );
   const five = (

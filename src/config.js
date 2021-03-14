@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'snargun1@jhu.com',
+  email: 'ksreenu1@jh.edu',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Siddhi-Nargund',
+      url: 'https://github.com/ksreenu1',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/bchiang7',
-    // },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/bchiang7',
-    // },
+     {
+       name: 'Instagram',
+       url: 'https://www.instagram.com/ksreenu07/',
+     },
+     {
+       name: 'Twitter',
+       url: 'https://twitter.com/KSreenuprasad',
+     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/siddhi-nargund',
+      url: 'https://www.linkedin.com/in/kushal-sreenuprasad-352a42183',
     },
     // {
     //   name: 'Codepen',
@@ -30,7 +30,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Education',
       url: '/#jobs',
     },
     {

@@ -173,3 +173,7 @@ const About = () => {
 };
 
 export default About;
+
+//I am a second-year graduate at the Johns Hopkins University, pursuing my Master’s Degree in Biomedical Engineering emphasized on Medical devices and Imaging.
+//The majority of my research and project experiences has involved designing and developing biomedical instruments for various diagnostic and therapeutic applications. Through these experiences, I have developed skills in electronics, medical device development, design, cardiology, and interventional medicine.
+//My background in engineering and passion for healthcare drives me to choose a career in medical technology. With comprehensive understanding of clinical requirements, engineering challenges and customer requirements, I want to contribute towards front-end economical medical innovations. 

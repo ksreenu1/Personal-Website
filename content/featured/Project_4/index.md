@@ -1,18 +1,17 @@
 ---
-date: '2'
-title: 'Functional Annotation of gene in healthy and BV infected Vaginal Microbiome'
+date: '4'
+title: 'Lesterolight: A non-invasive cholesterol monitoring device'
 cover: './demo.png'
-github: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
-external: 'https://github.com/Siddhi-Nargund/Functional-Annotation-of-Vaginal-Metagenomic-reads'
+github: '#'
+external: 'https://google.com'
 tech:
-  - FastQC
-  - Feauture Prediction
-  - Velvet
-  - Prokka suite
-  - Bowtie2
-  - khmer
-  - Picard
+  - Medical Device
+  - Medical Signal Processing
+  - Optical Spectroscopy
+  - Cholesterol Monitoring
+  - Cardiac Technology
+  - Product Commercialization
 showInProjects: true
----
+--- 
 
-Alignment of metagenomic reads of vaginal microbiome on assembled reference genomes of bacteria plotted on fragment recruitment plots. 
+Devised a non-invasive cholesterol monitoring device to monitor patients diagnosed with borderline or high cholesterol levels. Utilized infrared radiations to measure cholesterol absorption coefficient using a wavelength-sensitive photodetector. Addressed challenges early device commercialization. Pitched idea to a panel of investors from different institutions and organizations across Maryland.

@@ -1,19 +1,19 @@
 ---
 date: '2020-12-09'
-title: 'Master of Science in Biotechnology and Bioinformatics'
+title: 'Master of Science in Biomedical Engineering'
 company: 'Johns Hopkins University'
 location: 'Baltimore, MD'
-range: 'May 2019 - December 2020'
-url: 'https://my.jh.edu/people/snargun1'
+range: 'August 2019 - May 2021'
+url: 'https://my.jh.edu/people/ksreenu1'
 ---
-- GPA: 3.94
-- Bioinformatics
-- Practical Computer Concepts for Bioinformatics 
-- Bioinformatics: Tools for Genome Analysis
-- Metagenomics 
-- Biostatistics
-- Molecular Biology
-- Biochemistry
-- Advance Cell Biology I & II
-- Parasitology
+- GPA: 3.80/4.00
+- Principles of Design of Biomedical Instrumentation
+- Design of Biomedical Instruments
+- Effective and economic Design of Biomedical Instruments
+- Machine Learning for Signal Processing
+- Machine Learning in Medical Applications
+- Medical Image Analysis
+- Intellectual Property Law
+- Project Management
+
 

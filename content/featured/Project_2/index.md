@@ -1,14 +1,16 @@
 ---
-date: '3'
-title: 'Transcriptional Profiling 
-of Hippocampus using scRNA-Seq'
+date: '5'
+title: 'Chest X-Ray segmentation and Nodule detection'
 cover: './octoprofile.png'
-github: 'https://github.com/Siddhi-Nargund/Transcriptional-Profiling-of-Hippocampus-using-scRNA-Seq'
-external: 'https://github.com/Siddhi-Nargund/Transcriptional-Profiling-of-Hippocampus-using-scRNA-Seq'
+github: '#'
+external: 'https://youtu.be/JxcH6svmNyQ'
 tech:
-  - Seurat
-  - Dimensional Reduction
-  - Feature Expression 
+  - Image Processing
+  - Machine Learning
+  - Random Forests
+  - Active Contour Segmentation
 showInProjects: true
 ---
-Interpreted single cell RNA-Seq data and performed statistical operations for clustering and differential expression of cells in the Hippocampas
+
+
+Developed methods to anatomically segment CXR images with an accuracy of 89% and detect cancerous nodules in the segmented lung parenchyma. Further image analysis was performed using machine learning techniques to classify them into benign and malignant nodules.
