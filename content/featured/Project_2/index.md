@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Chest X-Ray segmentation and Nodule detection'
-cover: './octoprofile.png'
+cover: './CXR.png'
 github: '#'
 external: 'https://youtu.be/JxcH6svmNyQ'
 tech:

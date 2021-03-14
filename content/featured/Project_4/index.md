@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Lesterolight: A non-invasive cholesterol monitoring device'
-cover: './demo.png'
+cover: './Logo.png'
 github: '#'
 external: 'https://google.com'
 tech:

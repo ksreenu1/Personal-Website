@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Vagus Nerve stimulation for clinically induced asystole'
-cover: './demo.png'
+cover: './GUI.png'
 github: '#'
 external: 'https://youtu.be/8kvJGroDIKs'
 tech:

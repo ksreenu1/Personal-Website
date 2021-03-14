@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Quadriplegic Communication Headset'
-cover: './demo.png'
+cover: './headset.png'
 github: '#'
 external: '#'
 tech:

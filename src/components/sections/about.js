@@ -141,25 +141,16 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Siddhi, a Bioinformatics Analyst currently based in Baltimore, MD.</p>
+            <p>I am a second-year graduate at the <a href="https://www.jhu.edu">Johns Hopkins University</a>, pursuing my Master’s Degree in Biomedical Engineering emphasized on Medical devices and Imaging.</p>
 
             <p>
-              My academic journey is interdisciplinary in nature with deep knowledge of molecular biology and implementing computational tools using bioinformatics tools, Python and R.
+            The majority of my research and project experiences has involved designing and developing biomedical instruments for various diagnostic and therapeutic applications. Through these experiences, I have developed skills in electronics, medical device development, design, cardiology, and interventional medicine.
             </p>
 
             <p>
-              During my Masters program at {' '}
-              <a href="https://www.jhu.edu">Johns Hopkins University</a>, I got a chance to work on 
-              challenging and meaningful projects and helped me build skills in computational biology and 
-              work on diverse datasets.
+              My background in engineering and passion for healthcare drives me to choose a career in medical technology. With comprehensive understanding of clinical requirements, engineering challenges and customer requirements, I want to contribute towards front-end economical medical innovations. 
             </p>
-
-            <p>Here are a few technologies I've been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>

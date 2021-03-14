@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Automate Digital Pathology Slide Scanner'
 # cover: '/halycon.png'
-cover: './Slide.jpg'
+cover: './Slide.png'
 github: '#'
 external: 'https://youtu.be/Wi1Fb6nYwR4'
 tech:
