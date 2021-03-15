@@ -251,8 +251,8 @@ const StyledProject = styled.div`
 const Research = () => {
   const data = useStaticQuery(graphql`
     query {
-      research: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/research/" } }
+      Research: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/Research/" } }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
@@ -277,7 +277,7 @@ const Research = () => {
     }
   `);
 
-  const researchProjects = data.research.edges.filter(({ node }) => node);
+  const researchProjects = data.Research.edges.filter(({ node }) => node);
 
   const revealTitle = useRef(null);
   const revealProjects = useRef([]);
@@ -320,9 +320,12 @@ const Research = () => {
                       </a>
                     )}
                     {external && (
-                      <a href={external} aria-label="External Link" className="external">
-                        <Icon name="External" />
-                      </a>
+                      // <a href={external} aria-label="External Link" className="external">
+                      //   <Icon name="External" />
+                      // </a>
+                       <a href="/research_1.pdf" className="resume-button">
+                       Read More
+                     </a>
                     )}
                   </div>
                 </div>

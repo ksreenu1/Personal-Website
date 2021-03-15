@@ -49,7 +49,6 @@ const Hero = () => {
 
   const one = <h1>Hello! Welcome to the online home of </h1>;
   const two = <h2 className="big-heading">Kushal Sreenuprasad</h2>;
-  const three = <h3 className="big-heading">I am a Biomedical Engineer</h3>; //I dont want this
   const four = (
     <p>
 I am a Biomedical Engineer focused on developing futuristic, affordable and efficient Medical Devices
@@ -61,7 +60,7 @@ I am a Biomedical Engineer focused on developing futuristic, affordable and effi
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, four, five];
 
   return (
     <StyledHeroSection>

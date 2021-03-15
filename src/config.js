@@ -39,7 +39,7 @@ module.exports = {
     },
     {
       name: 'Research',
-      url: '/#research'
+      url: '/#research',
     },
     {
       name: 'Contact',
