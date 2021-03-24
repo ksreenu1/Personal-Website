@@ -51,8 +51,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for full-time job new opportunities in bioinformatics sector. My inbox is always open.
-        Whether you have a question or just want to say hi, I'll get back to you!
+        I'm currently looking for full-time job new opportunities in Medical Device/ Medical Instrumentation Industry.
+        Whether you have a question or just want to say Hi, just hit me up! I'll get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

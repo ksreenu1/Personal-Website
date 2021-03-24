@@ -1,18 +1,18 @@
 ---
 date: '2017-12-01'
-title: 'Automate Digital Pathology Slide Scanner'
+title: 'MRI conditional RF ablation catheters with real-time impedance based tracking'
 # cover: '/halycon.png'
-cover: './Slide.png'
+cover: './pic.png'
 github: '#'
-external: 'https://youtu.be/Wi1Fb6nYwR4'
+external: './Cardiology Bioengineering Lab.pdf' 
 tech:
   - Medical Devices
   - Biomedical instrumentation
-  - Digital Pathology
-  - Tade-off Economics
-  - Cost Management
+  - Catheters
+  - Electrophysiology
+  - RF Ablation
+  - Product Development
 showInProjects: true
 ---
 
-
-Devised an automatic, high-throughput, portable digital pathology slide scanner which can generate digital images of eight standard microscopic slides. The motivation behind the project was the dire pathological diagnostic needs during COVID-19 when access to laboratories was extremely difficult. 85% of the device operation can be remotely controlled by a pathologist.
+Designing, developing and manufacturing MRI conditional RF Ablation catheters along with a software interface for tracking the catehters inside the human body using impedance based tracking electrodes. These are used in EP procedures to treat life-threatening arrhythmias (Atrial Fibrillation, Ventricular tachycrdias, pre-ventricular contractions, etc.,.). 
