@@ -1,5 +1,5 @@
 ---
-date: '#'
+date: '2020-1-1'
 title: 'An improvised CPAP machine for pulmonary applications'
 github: '#'
 external: '#'
