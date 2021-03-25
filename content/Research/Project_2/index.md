@@ -1,18 +1,16 @@
 ---
 date: '2017-12-01'
-title: 'Automate Digital Pathology Slide Scanner'
+title: 'UTE sequence development for Ultra-fast dynamic cardiac imaging'
 # cover: '/halycon.png'
-cover: './Slide.png'
+cover: './UTE.png'
 github: '#'
-external: 'https://youtu.be/Wi1Fb6nYwR4'
+external: '#'
 tech:
-  - Medical Devices
-  - Biomedical instrumentation
-  - Digital Pathology
-  - Tade-off Economics
-  - Cost Management
+  - MRI imaging
+  - MRI sequences
+  - Medical Imaging
+  - Cardiac Imaging
 showInProjects: true
 ---
 
-
-Devised an automatic, high-throughput, portable digital pathology slide scanner which can generate digital images of eight standard microscopic slides. The motivation behind the project was the dire pathological diagnostic needs during COVID-19 when access to laboratories was extremely difficult. 85% of the device operation can be remotely controlled by a pathologist.
+I volunteered at the <a href="https://www.hopkinsmedicine.org/research/labs/lima-lab"> Lima Lab </a> from September 2019- June 2020. I developed UTE (Ultra-fast Time of Echo) sequences for rapid MR cardiac imaging. The goal was to develop this imaging sequence for efficient tissue separation characteristics while completely eliminating the need for contrast agents which have long-term deleterious effects.
