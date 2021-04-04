@@ -323,7 +323,7 @@ const Research = () => {
                       // <a href={external} aria-label="External Link" className="external">
                       //   <Icon name="External" />
                       // </a>
-                       <a href="/LAB.pdf" className="resume-button">
+                       <a href="/LAB_1.pdf" className="resume-button">
                        Read More
                      </a>
                     )}
