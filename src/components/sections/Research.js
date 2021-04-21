@@ -287,7 +287,7 @@ const Research = () => {
   }, []);
 
   return (
-    <section id="research">
+    <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
         Research Projects
       </h2>
