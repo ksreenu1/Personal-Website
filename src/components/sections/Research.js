@@ -319,14 +319,6 @@ const Research = () => {
                         <Icon name="External" />
                       </a>
                     )}
-                    {external && (
-                      // <a href={external} aria-label="External Link" className="external">
-                      //   <Icon name="External" />
-                      // </a>
-                       <a href="/LAB_1.pdf" className="resume-button">
-                       Read More
-                     </a>
-                    )}
                   </div>
                 </div>
 
