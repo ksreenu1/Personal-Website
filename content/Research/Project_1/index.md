@@ -3,7 +3,7 @@ date: '2017-12-01'
 title: 'MRI conditional RF ablation catheters with real-time impedance based tracking'
 # cover: '/halycon.png'
 cover: './pic.png'
-github: '#'
+github: 'https://www.kushalsreenu.tech/LAB_1.pdf'
 external: './Cardiology Bioengineering Lab.pdf' 
 tech:
   - Medical Devices
