@@ -316,7 +316,7 @@ const Research = () => {
                   <div className="project-links">
                     {github && (
                       <a href={github} aria-label="GitHub Link">
-                        <Icon name="GitHub" />
+                        <Icon name="External" />
                       </a>
                     )}
                     {external && (
