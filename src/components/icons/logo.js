@@ -30,7 +30,7 @@ const IconLogo = () => (
 	</style>
 	<use id="Background" href="#img1" x="6" y="0" />
 	<use id=" " href="#img2" x="21" y="19" />
-	<text transform="matrix(9.58823 0 0 9.59259 -2142.76 -2118.07)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_1" y="243.2722" x="223.94785" stroke-width="0" fill="#64ffda">K</text>
+
 </svg>
 );
 
