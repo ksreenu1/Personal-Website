@@ -15,4 +15,4 @@ tech:
 showInProjects: true
 ---
 
-Designing, developing and manufacturing MRI conditional RF Ablation catheters along with a software interface for tracking the catehters inside the human body using impedance based tracking electrodes. These are used in EP procedures to treat life-threatening arrhythmias (Atrial Fibrillation, Ventricular tachycrdias, pre-ventricular contractions, etc.,.). 
+Designing, developing and manufacturing MRI conditional RF Ablation catheters along with a software interface for tracking the catheters inside the human body using impedance based tracking electrodes. These are used in EP procedures to treat life-threatening arrhythmias (Atrial Fibrillation, Ventricular tachycrdias, pre-ventricular contractions, etc.,.). 
