@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Kushal Sreenuprasad',
     description:
-      'Siddhi Nargund is an innovative Bioinformatics Analyst based currently in Baltimore, MD specializing in building and implementing robust pipelines for analysis of NGS data.',
-    siteUrl: 'https://siddhinargund.tech', // No trailing slash allowed!
+      'Kushal Sreenuprasad is an innovative Bioinformatics Analyst based currently in Baltimore, MD.',
+    siteUrl: 'https://kushalsreenu.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@KSreenuprasad',
   },
