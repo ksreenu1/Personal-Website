@@ -20,16 +20,17 @@ const IconLogo = () => (
   //     </g>
   //   </g>
   // </svg>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="532.000000pt" height="469.000000pt" viewBox="0 0 532.000000 469.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.16, written by Peter Selinger 2001-2019
-</metadata>
-<g transform="translate(0.000000,469.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M1438 2363 c1 -1179 -1 -1701 -8 -1716 -11 -21 -11 -21 4 -3 14 18
-16 196 16 1712 0 931 -3 1695 -7 1697 -5 3 -7 -757 -5 -1690z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="d022f19e-eca0-47ce-acfc-a23fe35204cf"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="74d9585d-b328-4efb-8aba-245a099f9afc"  >
+</g>
+<g transform="matrix(1 0 0 1 540.5 576.1)" style="" id="6543af83-5505-4086-a919-226e3cd0ef95"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="168" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(100,255,218); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-54.01" y="52.78" >K</tspan></text>
 </g>
 </svg>
 );
