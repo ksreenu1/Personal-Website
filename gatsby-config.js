@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kushal Sreenuprasad',
     description:
-      'Kushal Sreenuprasad is an innovative Bioinformatics Analyst based currently in Baltimore, MD.',
+      'Kushal Sreenuprasad is an innovative Biomedical Engineer based currently in Baltimore, MD.',
     siteUrl: 'https://kushalsreenu.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@KSreenuprasad',
