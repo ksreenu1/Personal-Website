@@ -20,18 +20,17 @@ const IconLogo = () => (
   //     </g>
   //   </g>
   // </svg>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 4.2.0</desc>
-<defs>
-</defs>
-<g transform="matrix(1 0 0 1 540 540)" id="d022f19e-eca0-47ce-acfc-a23fe35204cf"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="74d9585d-b328-4efb-8aba-245a099f9afc"  >
-</g>
-<g transform="matrix(1 0 0 1 540.5 576.1)" style="" id="6543af83-5505-4086-a919-226e3cd0ef95"  >
-		<text xml:space="preserve" font-family="Raleway" font-size="168" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(100,255,218); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-54.01" y="52.78" >K</tspan></text>
-</g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<defs>
+		<image width="87" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAABkCAMAAADE+FxdAAAAAXNSR0IB2cksfwAAAutQTFRFAAAADB4vDBsxChsyFy5GCxswCxowChkvCxowCxkwQEBACyA1DBowChkvCxkwDBsvICBACxkwChkvCxovEhs3DBoyChowChkvJCRJDhwzChowChowChwwERozCxowChkvChovDx0zFStADBovChowChovDBkxGhozgICACxswCxowChovDBsxDBwwCxovCxovDB4xDhwyChowChkwCxkvEiQ3ECAwCxovChovCxkvCxsx////DBowCxowChozCxwyCxkwChkxDRs2CxovCxovDRozChowChkwDRowKytVCxsxCxkvDRkvChowCxkvMzMzCxkwCxkwCxoxFB0xCxowChkvHBw5ChsxCxkwChkvDRoxDRowChkwCxkwDhwwCxovCxowChowDRowChovCxsxChswDBowZP/aYvjWXOvMVdq+RrKhNIR/GDxJUcy1IFFZP56SChowQaeZZP3ZYvnWJmJmQqmaDSE1FjdGI1ddRbCgY/vXVtvAH05XGkFNLnV1HEdRN4yFDiM3OZKKLnV0IVNbXu/PWuPGCxwyDyU4M4F9W+fIMn57W+jJTMKtUtG4W+rLZP7aSbmnCxsxQ6ycP5+TV9zBIlZdJFpgQ6ucEiw9HUtULXJxVdm+G0JONoiDSbimG0NPI1leL3d1Ey0+PpyRRa+fJFlfPZuQSr2pMn97OJCHGT1LDB8zEy9AH09XLnZ0V93BUtK6N4uEY/rWNYV/Y/zYX/PRXezMV97CUc61QaWYEzBBChsvDBsvCxovDBoxCxwvCxswCxowCxkwCxkwDRoyChowCxowEho1ChkwDBsyCxkvDB8yCxsxCxkwCxkyCyE3CxkwCxkwVVVVDRsxCxovESIzDBsvCxowChkvDx41Dhw5ChkvDB0xCho0ChowChowCxsxCxkvFCc7ChowChowDhwvDBwxChkwChowChwxCxowCxovCxwyCxoxCxovExwvCxovCxovDBwxCxovCxovDBswChkw6/TG2QAAAPl0Uk5TACtpTAswvv/wbwQYm/3UQQh586gcV+H0BzfG20oepP6yIwyC9viDCgJg5uJUQM69KiSu+40OEIz56F4BausySNWYE7jtFJX8OwZzolHc8gXB1kQan6wJfVvdTjrJtiWHu+RQ90N7gP//////////////////////////////////////////////////////////////////////////////////////////////////////////////////fFbYWFyGnrW/TfXvHatCtyly8UcXoeoDOc0PZ+ytIhKXPjHE5V3nDfrFNlPfsUnavC542Run7j/SkYVmUfPKdwAAA2FJREFUeJzt2VdQE1EUgOGA4NKCAaUIAiqgIIpiFFAQOwoidrA30KBiwQY2sKBiF8TesPfeC9ixoqKIBey99/LovbsoIWSzu3fPjjPq/5Q5k/0mD9nM5lyZjHd6+iUM+L+bb4YlKYoyMjaBVU3N5BSdeSlAVWFhSf2udBko1sqaUs/GwhZCLWtHaWZfTrTq4OhUjEWVryBKrejsok1FuVaqTKy6uVdhUXEeVQnZap46VFz1GgSqV00OFaWsVVug6u3jy82i6tT1E6Ca+NfjpeLsAniz9RvwVlHyho14qXqNhai4JvpunGrTwGZCWZRnc91qULARgYpyamGqgw1pSabiQoNbsagBrclVXJu22tR27eXiWFQHB001LNxGtIpyCVeoq34dPSBUXKfOhWyXrlAqrlt3RlU4Qqoo3x74ccCkJzCL6oW+Gb3hWYqKiJT1kcKlPGV9JXGVErnUf/cPuyq1ovr1HxA9EN5lGjRYGlelGhIjjasaCuQOG05XCI+AcUcyr2PjRo0eQw/Ggrq4ccynjod2qWh6kgDujqcnE8DdifRkErgbT08Swd1EejIZ2o2bggdTk2DdadNn0IOZHFfxdGfNppszN5m53VLmwbhFS06N5WKJ3Pmcn5bw92zBQmlcVdQiGHdxEtOSpcuWM/AKEFft+xuzkp6kQbsUlUaPVoG7q+nRGnB3LT1aJ5G7HtzdQI82grub6NFmYDdpC3NrbIVwU7cxbd+xcxfD7ua4jOw+Vqm4ntEI3T0cV5G5e/dxsSTu/hSuhx0+7gH1Dh46fCThKLf6F/6/+FfcdIncDElYuUwButz51TGZzFuCRYz8ON4cWYFtuQqyPMGspAxOugKq8lOFO1Cv02DsGcMim8RMEbtUtexDNFeUtulnRavngoO0rFTPXxCnKgPZNu0XBW3sNbqUxaLireLlK4Sq+VV2FZd9TesBFkfX/XN0s6gbuUJVX5+bnCrK7dZtQeydPD4qLv8u/2V77j2+Ku7+A37qQ3chB08ov0ePuVUXZ4KT6ic+T3WrTo6ER75ZOn+anz0nU3EvrNnUlxnkKirMOUKbGir+bDrvVTFVbpYtVsW9flOUffsOQkUFvVc7PfqQCaTiPn4qUD8bsx2zEfblK1KV3/JhVVRO5Pcfxc7XWPsJ2nUXJULIPQkAAAAASUVORK5CYII="/>
+		<image width="49" height="70" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAABGCAMAAABSZYxXAAAAAXNSR0IB2cksfwAAAQJQTFRFAAAAABIkCRcuChkvChkvCRkuChguCRIsBxkuCRkuChkuChkuCRkvCBkpAAAkCBksCRgvCRguCRgvChgvChkuCRYtBRQuCRgvCRgvAA0mCBkuCRguCRYsChguBxYsCRkuAAAaCRgtCRkuBhksCRguCBgtCRkvCRkuCRcuCRkuCRguCBgsCRguCRkuChcuChgvChcuCRguCRkuCRguCRguCRguChgvChkvChkvCRkvBhYsCRkuCRkvCRguCBguCRgrChgvAAAgBxYsABYsCRkuCRkvChguChguCRguCRguCRgvChgvChcvCRkuCBctCRgvCRgvCRguCRkvCRctChguABQnr3tfXwAAAFZ0Uk5TAA5u7//4ah1Ij8y4Uh8HXOXI2/GcOTLgqhR7/VHpI+EKVfcpsWD2wzj5rED+kU3UhPOm9L3ynpnPxS7YxK1/NtUIRRfZctFpstz8n4OwRPuTwPVa1g20H9lHAAABMklEQVR4nO3VyVICMRAG4IwG1FEmIogrqLgr4r6N27iCgru+/6uoZVnSSaqT34uX+S+55KtOOpVqIdL8JOjqljSZbE9vXxj2D+SsIFKDUk9+6HstFIctojRigI6MmmBsfIIT0hSTZRaYojLFA0NMz1RBMTvnAIaYX0DFogvoYmkZFMGKE2hi1XkLWSMgt+YuQWvU11Gx4QE2idjyENtEhB6CnsoH4CIPix0idj3EHlxjv6NRB4c+QoGNkjKGBfoYfxBHsDiGxQkqqqeoKJ+hIjlHBZkFXkLBIkZFIlCBf44LWFzCQqDiiorrjFPcUCEa7OT/SlMTgbq940VLEyIqtQusULr4nOb1+xojYlOI6OGRERYgoicGPNtE5YURrzaRZcDbu00U9W2/10osnUqT5j/zAVisLOTF7AStAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		
+	</style>
+	<use id="Background" href="#img1" x="6" y="0" />
+	<use id=" " href="#img2" x="21" y="19" />
+	<path id="Text layer 2" fill="#64ffda" d="M62.7 29.81L62.7 35.29Q59.5 33.76 56.66 33.01Q53.83 32.26 51.18 32.26Q46.59 32.26 44.08 34.04Q41.61 35.82 41.61 39.11Q41.61 41.86 43.25 43.28Q44.92 44.67 49.54 45.54L52.93 46.23Q59.22 47.43 62.2 50.46Q65.21 53.47 65.21 58.53Q65.21 64.57 61.15 67.69Q57.11 70.81 49.29 70.81Q46.34 70.81 43 70.14Q39.69 69.47 36.12 68.16L36.12 62.37Q39.55 64.29 42.83 65.27Q46.12 66.24 49.29 66.24Q54.1 66.24 56.72 64.35Q59.34 62.46 59.34 58.95Q59.34 55.89 57.44 54.16Q55.58 52.44 51.29 51.58L47.87 50.91Q41.58 49.65 38.77 46.98Q35.96 44.31 35.96 39.55Q35.96 34.04 39.83 30.87Q43.72 27.7 50.54 27.7Q53.46 27.7 56.5 28.22Q59.53 28.75 62.7 29.81Z" />
 </svg>
 );
 
